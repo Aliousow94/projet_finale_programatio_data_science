@@ -1,0 +1,18 @@
+# --- Environnement virtuel Python ---
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# --- Fichiers de données volumineux (Kaggle) ---
+data.csv
+iris.json
+new_json.json
+*.zip
+*.csv
+*.json
+
+# --- Historique R / RStudio ---
+.Rhistory
+.RData
+.Rproj.user/
